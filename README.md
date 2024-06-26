@@ -3,13 +3,6 @@
 I was involved in the development of the GetSpot Placement Application, a project that I built with my friends. My role in this project was as the Front End Developer, where I was primarily responsible for creating all the features using React. This involved designing and implementing user interfaces, ensuring a seamless user experience, and collaborating closely with the back-end team to integrate APIs and data. Additionally, I worked on optimizing the application for performance and responsiveness across various devices and browsers. This project allowed me to enhance my skills in React, as well as gain valuable experience in teamwork and project management.
 
 # Few Ui showcase
-### Login
-![Login](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/login.png?alt=media&token=17348af9-f187-4cf0-aaa6-63d606d2ef9a)
-
-### Dashboard
-![Dashboard](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/dashboard.png?alt=media&token=9e5efcae-8606-4d5e-8a9e-fe5aa1c4c0b5)
-![DashboardCard](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/cardui.png?alt=media&token=ce63cbe9-05e0-47be-8e84-53d338787536)
-
 ### Placement Form
 ![PlacementForm](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/form.png?alt=media&token=5cf2479c-7b50-430d-928d-72831283f6bb)
 ![PlacementForm2](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/form2.png?alt=media&token=61038e4f-aaaa-4049-a2bf-22808560505c)
