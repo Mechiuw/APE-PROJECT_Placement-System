@@ -13,11 +13,6 @@ I was involved in the development of the GetSpot Placement Application, a projec
 ### List and Tables
 ![TraineeList](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/list%20and%20tables.png?alt=media&token=b7f553a1-8652-4ef7-95ee-4f170feaf4f9)
 
-### Settings
-![UserSettings](https://firebasestorage.googleapis.com/v0/b/getspot-app.appspot.com/o/settings.png?alt=media&token=7acadbcc-8e55-4839-a530-45e087a18767)
-
-
-
 
 # React + Vite
 
